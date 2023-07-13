@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7d0ffd8-4b05-4e62-95ae-f36ca028ebad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../desafio-02/out/production/desafio-02/Desafio02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desafio-02/out/production/desafio-02/Desafio02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03.java" afterDir="false" />
-    </list>
+    <list default="true" id="e7d0ffd8-4b05-4e62-95ae-f36ca028ebad" name="Changes" comment="finished challenge 03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +33,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Suporte/repositorios-pessoal/desafios-logica/desafio-03"
+    "last_opened_file_path": "C:/Users/Suporte/repositorios-pessoal/desafios-logica/desafio-04",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager">
@@ -64,8 +60,16 @@
       <option name="presentableId" value="Default" />
       <updated>1689201625146</updated>
       <workItem from="1689201626509" duration="15000" />
-      <workItem from="1689248465980" duration="2533000" />
+      <workItem from="1689248465980" duration="2626000" />
     </task>
+    <task id="LOCAL-00001" summary="finished challenge 03">
+      <created>1689251444221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689251444221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished challenge 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished challenge 03" />
   </component>
 </project>
